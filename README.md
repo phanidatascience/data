@@ -11,7 +11,7 @@ random forest
 
 k nearest neighbors
 
-
+naive bayes
 
 
 
